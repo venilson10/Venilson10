@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->/
 [![YouTube](https://img.shields.io/badge/YouTube-Venilson%20Sousa-red?logo=youtube&logoColor=white)](https://www.youtube.com/https://youtu.be/4eUHOSTgLsM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venilson%20Sousa-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venilson-sousa-951308365/
+[Assista aqui](https://youtu.be/4eUHOSTgLsM)https://youtu.be/4eUHOSTgLsM
