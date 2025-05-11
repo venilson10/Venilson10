@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seunome)https://www.linkedin.com/in/venilson-sousa-951308365/
+[![YouTube](https://img.shields.io/badge/YouTube-Venilson%20Sousa-red?logo=youtube&logoColor=white)](https://www.youtube.com/@venilsonsousa-g6w)
